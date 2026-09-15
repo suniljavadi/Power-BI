@@ -11,6 +11,10 @@ A collection of Power BI assignments, sample workbooks, supporting documents, an
 - AdventureWorks sales material and supporting database files
 - A project support document in DOCX format
 
+The assignment archives are extracted into browsable folders including `Assign 1/`,
+`Assign 3/`, `Assign 4/`, `Assign 5/`, `Assign 6/`, `Assignment8/`, `projectGames/`,
+`Proj_2 PowerBI/`, and `Adventurousworksale/`. The original ZIP files are retained.
+
 ## Focus Areas
 
 - Dashboard and report development
